@@ -31,7 +31,7 @@ The new dataset contains data from North Carolina and New Jeresy. The series inc
 ### Visualization 1
 This visualization shows the number of primary care providers, mental health providers, and dentists in North Carolina and New Jersey. This visualization was created using the "NC_NJ_subset."
 
-![Visualization 1](https://user-images.githubusercontent.com/118193891/202971755-e9d230e8-ee18-465b-b1c3-70e316d95b9c.jpg)
+![Visualization 1B](https://user-images.githubusercontent.com/118193891/203074677-e2a99f6e-e561-456d-b362-2d4c561de470.jpg)
 
 ### Visualization 2
 This visualization shows the total number of health care proffesionals by county in North Carolina and New Jersey. Total Healthcare proffesionals is the sum of **primary care providers, mental health providers, and dentists**. This visualization was created using the "NC_NJ_subset."
