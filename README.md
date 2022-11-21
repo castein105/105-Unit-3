@@ -27,6 +27,8 @@ The new dataset contains data from North Carolina and New Jeresy. The series inc
   * NC_NJ_subset.csv
   * CountyHealthData_2014-2015.csv
 
+![viz1](visualization 2.jpg)
+
 ## Potential 
 
 This repository was created to compare the access to health care proffesionals between New Jersey- my home state, and North Carolina- the state that I currently reside in.
