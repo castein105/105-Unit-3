@@ -2,11 +2,10 @@
 
 ## Purpose
 
-This is a repository containing instructional materials and sample datasets for Prof. Gotzler's section of ENGL 105 at the University of North Carolina at Chapel Hill. This repository is the final project for **Unit 3: writing in the natural sciences.**
+This is a repository contains datasets about public health in different counties in the United States of America. This repository is the final project for **Unit 3: writing in the natural sciences.**
 
-This repository contains 3 python notebooks, covering basic tops in Python3, and beggining modules on using the Pandas package for data analysis.
+This repository contains 1 python notebook, covering how to utilize the orginal county healthdata set, and visualizations created from the resulting subset. 
 
-These materials have been adapted from the [Research Hub at UNC's Davis Library.](https://unc-libraries-data.github.io/Python/)
 
 ## Description 
 
@@ -19,23 +18,23 @@ The new dataset contains data from North Carolina and New Jeresy. The series inc
 * README.md
 * Python_Lessons
   * README.md
-  * Using Pandas1.ipynb
-  * Using Pandas2.ipynb
   * Feeder3.1.ipynb
 * data
   * README.md
   * NC_NJ_subset.csv
   * CountyHealthData_2014-2015.csv
+  * Visualization 1.jpg
+  * Visualization 2.jpg
 
 ## Visualizations
 
 ### Visualization 1
-This visualization shows the number of primary care providers, mental health providers, and dentists in North Carolina and New Jersey. 
+This visualization shows the number of primary care providers, mental health providers, and dentists in North Carolina and New Jersey. This visualization was created using the "NC_NJ_subset."
 
 ![Visualization 1](https://user-images.githubusercontent.com/118193891/202971755-e9d230e8-ee18-465b-b1c3-70e316d95b9c.jpg)
 
 ### Visualization 2
-This visualization shows the total number of health care proffesionals by county in North Carolina and New Jersey. Total Healthcare proffesionals is the sum of primary care providers, mental health providers, and dentists. 
+This visualization shows the total number of health care proffesionals by county in North Carolina and New Jersey. Total Healthcare proffesionals is the sum of **primary care providers, mental health providers, and dentists**. This visualization was created using the "NC_NJ_subset."
 
 ![Visualization 2](https://user-images.githubusercontent.com/118193891/202971816-7687d9a9-2c1d-4915-a7e2-840d31a2ebe6.jpg)
 
