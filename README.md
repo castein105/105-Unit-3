@@ -36,7 +36,7 @@ This visualization shows the number of primary care providers, mental health pro
 ### Visualization 2
 This visualization shows the total number of health care proffesionals by county in North Carolina and New Jersey. Total Healthcare proffesionals is the sum of **primary care providers, mental health providers, and dentists**. This visualization was created using the "NC_NJ_subset."
 
-![Visualization 2](https://user-images.githubusercontent.com/118193891/202971816-7687d9a9-2c1d-4915-a7e2-840d31a2ebe6.jpg)
+![Visualization 2](https://user-images.githubusercontent.com/118193891/203073603-d8ccfcca-847e-41ba-b1af-78627c151e84.jpg)
 
 
 ## Potential 
