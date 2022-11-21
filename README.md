@@ -27,8 +27,9 @@ The new dataset contains data from North Carolina and New Jeresy. The series inc
   * NC_NJ_subset.csv
   * CountyHealthData_2014-2015.csv
 
-![viz1](Visualization 2.jpg)
+![viz1](105-Unit-3/data/Visualization 2.jpg)
 
+![viz1](105-Unit-3/data/Visualization 2.jpg)
 
 
 ## Potential 
