@@ -53,7 +53,7 @@ In this map, the darker shades of blue represent a high number of healthcare pro
 
 This repository was created to compare the access to health care proffesionals between New Jersey- my home state, and North Carolina- the state that I currently reside in. By using the steps descibed in the **Process_Documentation1.ipynb**, we manipulate the dataset to create a subset that makes this comparison more clear. 
 
-An important note to consider is that North Carolina has a larger population compared to New Jersey. If we consider populations of each state from when the dataset was colleced (2014-2015), the population of North Carolina was 9.937 million, while the population of New Jersey was 8.867 million. Given this significant difference in population, it can be expected that North Carolina has more Health Care Proffesionals, as it has a larger population to serve. Viewers should keep in mind that the comparison explored in this repository is a raw comparison, and not a comparision with healthcare proffesionals per capita.
+An important note to consider is that North Carolina has a larger population compared to New Jersey. If we consider populations of each state from when the dataset was colleced (2014-2015), the population of North Carolina was 9.937 million, while the population of New Jersey was 8.867 million. Given this significant difference in population, it can be expected that North Carolina has more Health Care Proffesionals, as it has a larger population to serve. Viewers should keep in mind that the comparison explored in this repository is a raw comparison, and not a comparision of healthcare proffesionals per capita.
 
 ## Future Exploration
 ### Taking the data subset created by this repository and comparing it to population
