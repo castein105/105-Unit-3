@@ -12,7 +12,9 @@ This repository contains 1 python notebook, covering how to utilize the orginal 
 The original set contains data regarding county health data for all 50 states in America. The data included was colled in 2014 and 2015. 
 The new dataset contains data from North Carolina and New Jeresy. The series included are the healthcare proffesionals: **primary care physicians, dentists, mental health providers.**
 
+## Accessing the Datasets
 
+1. Have [Anaconda](https://www.anaconda.com) Installed. 
 ## Organization
 
 * README.md
@@ -26,7 +28,7 @@ The new dataset contains data from North Carolina and New Jeresy. The series inc
   * Visualization 1.jpg
   * Visualization 2.jpg
 
-## Visual Comparisons of Health Care Proffesionals in New Jersey and North Carolina
+## Visual Comparisons of Health Care Proffesionals
 
 ### Bar Graph Visualization
 This visualization shows the number of primary care providers, mental health providers, and dentists in North Carolina and New Jersey. This visualization was created using the "NC_NJ_subset."
@@ -39,6 +41,6 @@ This visualization shows the total number of health care proffesionals by county
 ![Visualization 2](https://user-images.githubusercontent.com/118193891/203073603-d8ccfcca-847e-41ba-b1af-78627c151e84.jpg)
 
 
-## Potential 
+## Home State vs. Current State of Residence.
 
 This repository was created to compare the access to health care proffesionals between New Jersey- my home state, and North Carolina- the state that I currently reside in. 
