@@ -16,7 +16,7 @@ The new dataset contains data from North Carolina and New Jeresy. The series inc
 
 1. Have [Anaconda](https://www.anaconda.com) Installed. Anaconda is a distribution of Python and R, and we will be using Python to explore the data. 
 2. Once you have [Anaconda](https://www.anaconda.com) installed, open [JuypterLab](https://jupyter.org). JuypterLab is located on the home screen of Anaconda, and JuypterLab should open in a web browser when you open the application. JuypterLab is a web-based development enviornment, where we will be entering code.
-3. Download the original **CountyHealthData_2014-2015.csv** file onto your computer, and open them in your working directory in JuypterLab.
+3. Download the original **CountyHealthData_2014-2015.csv** file onto your computer, and open it in your working directory in JuypterLab.
 
 ## Organization of Repository
 
@@ -36,6 +36,8 @@ This Data Repository contains the following files:
 ## Home State vs. Current State of Residence.
 
 This repository was created to compare the access to health care proffesionals between New Jersey- my home state, and North Carolina- the state that I currently reside in. By using the steps descibed in the **Process_Documentation1.ipynb**, we manipulate the dataset to create a subset that makes this comparison more clear. 
+
+An important note to consider is that North Carolina has a larger population compared to New Jersey. If we consider populations of each state from when the dataset was colleced (2014-2015), the population of North Carolina was 9.937 million, while the population of New Jersey was 8.867 million. Given this significant difference in population, it can be expected that North Carolina has more Health Care Proffesionals, as it has a larger population to serve. Viewers should keep in mind that the comparison explored in this repository is a raw comparison, and not a comparision with healt
 
 ## Visual Comparisons of Health Care Proffesionals
 
