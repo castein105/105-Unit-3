@@ -35,6 +35,8 @@ This Data Repository contains the following files:
 
 ## Visual Comparisons of Health Care Proffesionals
 
+The visualizations below were created using [Tableau](https://www.tableau.com).
+
 ### Bar Graph Visualization
 This visualization shows the number of primary care providers, mental health providers, and dentists in North Carolina and New Jersey. This visualization was created using the "NC_NJ_subset." 
 
