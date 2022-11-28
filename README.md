@@ -33,19 +33,18 @@ This Data Repository contains the following files:
   * Visualization 1.jpg
   * Visualization 2.jpg
 
+## Home State vs. Current State of Residence.
+
+This repository was created to compare the access to health care proffesionals between New Jersey- my home state, and North Carolina- the state that I currently reside in. By using the steps descibed in the **Process_Documentation1.ipynb**, we manipulate the dataset to create a subset that makes this comparison more clear. 
+
 ## Visual Comparisons of Health Care Proffesionals
 
 ### Bar Graph Visualization
-This visualization shows the number of primary care providers, mental health providers, and dentists in North Carolina and New Jersey. This visualization was created using the "NC_NJ_subset." 
+This visualization shows the number of primary care providers, mental health providers, and dentists in North Carolina and New Jersey. This visualization was created using the "NC_NJ_subset." This visualization clearly depicts that North Carolina has more primary care providers, mental health providers, and dentists than New Jersey. It is also evident that mental health providers are the most abundant health care providers in each state.
 
 ![Visualization 1B](https://user-images.githubusercontent.com/118193891/203074677-e2a99f6e-e561-456d-b362-2d4c561de470.jpg)
 
 ### Map Visualization
-This visualization shows the total number of health care proffesionals by county in North Carolina and New Jersey. Total Healthcare proffesionals is the sum of **primary care providers, mental health providers, and dentists**. This visualization was created using the "NC_NJ_subset."
+This visualization shows the total number of health care proffesionals by county in North Carolina and New Jersey. Total Healthcare proffesionals is the sum of **primary care providers, mental health providers, and dentists**. This visualization was created using the "NC_NJ_subset." In this map, the darkers shades of blue represent a high number of healthcare proffesionals, while the lighter shades of blue represent a low population of healthcare proffesionals. Compared to the previous visualization, this visualization provides a geographical understanding of where the most healthcare proffesionals are located in each state. Oftentimes, the darker colored counties are more urban counties with higher populations, while the lighter shaded counties are more rural with lower populations. 
 
 ![Visualization 2](https://user-images.githubusercontent.com/118193891/203073603-d8ccfcca-847e-41ba-b1af-78627c151e84.jpg)
-
-
-## Home State vs. Current State of Residence.
-
-This repository was created to compare the access to health care proffesionals between New Jersey- my home state, and North Carolina- the state that I currently reside in. 
