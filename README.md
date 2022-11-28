@@ -26,14 +26,14 @@ The new dataset contains data from North Carolina and New Jeresy. The series inc
   * Visualization 1.jpg
   * Visualization 2.jpg
 
-## Visualizations
+## Visual Comparisons of Health Care Proffesionals in New Jersey and North Carolina
 
-### Visualization 1
+### Bar Graph Visualization
 This visualization shows the number of primary care providers, mental health providers, and dentists in North Carolina and New Jersey. This visualization was created using the "NC_NJ_subset."
 
 ![Visualization 1B](https://user-images.githubusercontent.com/118193891/203074677-e2a99f6e-e561-456d-b362-2d4c561de470.jpg)
 
-### Visualization 2
+### Map Visualization
 This visualization shows the total number of health care proffesionals by county in North Carolina and New Jersey. Total Healthcare proffesionals is the sum of **primary care providers, mental health providers, and dentists**. This visualization was created using the "NC_NJ_subset."
 
 ![Visualization 2](https://user-images.githubusercontent.com/118193891/203073603-d8ccfcca-847e-41ba-b1af-78627c151e84.jpg)
@@ -41,4 +41,4 @@ This visualization shows the total number of health care proffesionals by county
 
 ## Potential 
 
-This repository was created to compare the access to health care proffesionals between New Jersey- my home state, and North Carolina- the state that I currently reside in.
+This repository was created to compare the access to health care proffesionals between New Jersey- my home state, and North Carolina- the state that I currently reside in. 
