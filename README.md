@@ -45,7 +45,7 @@ This visualization clearly depicts that North Carolina has more primary care pro
 ### Map Visualization
 This visualization shows the total number of health care proffesionals by county in North Carolina and New Jersey. Total Healthcare proffesionals is the sum of **primary care providers, mental health providers, and dentists**. This visualization was created using the "NC_NJ_subset." 
 
-In this map, the darker shades of blue represent a high number of healthcare proffesionals, while the lighter shades of blue represent a low population of healthcare proffesionals. Compared to the previous visualization, this visualization provides a geographical understanding of where the most healthcare proffesionals are located in each state. Oftentimes, the darker colored counties are more urban counties with higher populations, while the lighter shaded counties are more rural with lower populations. 
+In this map, the darker shades of blue represent a high number of healthcare proffesionals, while the lighter shades of blue represent a low population of healthcare proffesionals. Compared to the previous visualization, this visualization provides a geographical understanding of where the most healthcare proffesionals are located in each state. Oftentimes, the darker colored counties are more urban with higher populations, while the lighter shaded counties are more rural with lower populations. 
 
 ![Visualization 2](https://user-images.githubusercontent.com/118193891/203073603-d8ccfcca-847e-41ba-b1af-78627c151e84.jpg)
 
@@ -56,5 +56,10 @@ This repository was created to compare the access to health care proffesionals b
 An important note to consider is that North Carolina has a larger population compared to New Jersey. If we consider populations of each state from when the dataset was colleced (2014-2015), the population of North Carolina was 9.937 million, while the population of New Jersey was 8.867 million. Given this significant difference in population, it can be expected that North Carolina has more Health Care Proffesionals, as it has a larger population to serve. Viewers should keep in mind that the comparison explored in this repository is a raw comparison, and not a comparision with healthcare proffesionals per capita.
 
 ## Future Exploration
+### Taking the data subset created by this repository and comparing it to population
 
-An interesting way one could further explore the healthcare proffesionals in New Jersey and New York would be to compared the number of proffesionals in relation to population. By comparing the number of healthcare proffesionals and the population of the state or county, it will provide more accurate insight to if healthcare proffesionals are more accessable in New Jersey or North Carolina. 
+An interesting way one could further explore the healthcare proffesionals in New Jersey and New York would be to compared the number of proffesionals in relation to population. By comparing the number of healthcare proffesionals and the population of the state or county, it will provide more accurate insight to if healthcare proffesionals are more accessable in New Jersey or North Carolina.
+
+### Comparing 2014-2015 data to 2021-2022 data
+
+Another intersting path one could further explore this data is by finding current data regarding health care proffesionals in each state. The data collected in 2014-2015 can then be compared to the current number of health care proffesionals. This comparison would be espcecially interesting considering that there was an international Pandemic in 2020. It would be interesting to see if the number of healthcare proffesionals changed significantly. 
